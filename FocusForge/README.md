@@ -1,4 +1,4 @@
-# FocusForge — Deep Work Command Center
+# FocusForge — Deep Work Command Centre
 
 A structured productivity dashboard built to help you focus deeply, manage task priorities, and track your deep work sessions — without the noise.
 
