@@ -1,6 +1,6 @@
  # FocusForge — Deep Work Command Centre
 
-> Live Preview: https://your-site-url.netlify.app
+> Live Preview: https://coddiction-101.github.io/VibeHai/FocusForge/.netlify.app
 
 A structured productivity dashboard built to help you focus deeply, manage task priorities, and track your deep work sessions — without the noise.
 
