@@ -122,7 +122,4 @@ npx serve .
 - React component-based refactor
 
 ---
-
-## License
-
-MIT — free to use, modify, and distribute.
+ 
