@@ -47,7 +47,7 @@ Completed sessions are logged with a timestamp and goal label.
 
 ### Ambient Theme Modes
 
-Switch the interface accent color to match your current work mode:
+Switch the interface accent colour to match your current work mode:
 
 | Theme | Accent Color | Mood |
 |-------|-------------|------|
