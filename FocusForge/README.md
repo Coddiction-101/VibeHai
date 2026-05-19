@@ -14,7 +14,7 @@ FocusForge is not a typical to-do app. It is designed around the idea that clari
 
 ### Priority-Based Task System
 
-Tasks are organized into three priority levels:
+Tasks are organised into three priority levels:
 
 - **Critical** — Must be done. Blocks progress.
 - **Important** — High value. Should be done today.
